@@ -1,0 +1,444 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视频道1",4K南国都市频道
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1 group-title="央视频道1",CCTV1
+http://play.kankanlive.com/live/1661761962676984.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV2
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV3
+http://gmxw.7766.org:808/hls/91/index.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV4
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV5
+http://112.46.105.20:8009/hls/503/index.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV5+
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV6
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV7
+https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV8
+http://gmxw.7766.org:808/hls/96/index.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV9
+http://183.11.239.36:808/hls/27/index.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV10
+http://110.53.52.63:8888/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV11
+http://125.42.150.89:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="央视频道1",CCTV12
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV13
+https://event.pull.hebtv.com/jishi/cp1.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV13
+http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV13
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV14
+https://event.pull.hebtv.com/jishi/cp2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV15
+http://gmxw.7766.org:808/hls/102/index.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV16
+http://gmxw.7766.org:808/hls/169/index.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV17
+http://1b6467f415.iok.la:9931/tsfile/live/1130_1.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV17
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1 group-title="央视频道1",CCTV风云足球
+https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+https://www.yangshipin.cn/tv/home?pid=600002475
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+https://www.yangshipin.cn/tv/home?pid=600002521
+#EXTINF:-1 group-title="卫视频道",上海东方卫视
+https://www.yangshipin.cn/tv/home?pid=600002483
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://www.yangshipin.cn/tv/home?pid=600002520
+#EXTINF:-1 group-title="卫视频道",北京卫视
+https://www.yangshipin.cn/tv/home?pid=600002309
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+https://www.yangshipin.cn/tv/home?pid=600002508
+#EXTINF:-1 group-title="卫视频道",广东卫视
+https://www.yangshipin.cn/tv/home?pid=600002485
+#EXTINF:-1 group-title="卫视频道",广西卫视
+https://www.yangshipin.cn/tv/home?pid=600002509
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视
+https://www.yangshipin.cn/tv/home?pid=600002498
+#EXTINF:-1 group-title="卫视频道",海南卫视
+https://www.yangshipin.cn/tv/home?pid=600002506
+#EXTINF:-1 group-title="卫视频道",重庆卫视
+https://www.yangshipin.cn/tv/home?pid=600002531
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+https://www.yangshipin.cn/tv/home?pid=600002481
+#EXTINF:-1 group-title="卫视频道",四川卫视
+https://www.yangshipin.cn/tv/home?pid=600002516
+#EXTINF:-1 group-title="卫视频道",河南卫视
+https://www.yangshipin.cn/tv/home?pid=600002525
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+https://www.yangshipin.cn/tv/home?pid=600002484
+#EXTINF:-1 group-title="卫视频道",贵州卫视
+https://www.yangshipin.cn/tv/home?pid=600002490
+#EXTINF:-1 group-title="卫视频道",江西卫视
+https://www.yangshipin.cn/tv/home?pid=600002503
+#EXTINF:-1 group-title="卫视频道",辽宁卫视
+https://www.yangshipin.cn/tv/home?pid=600002505
+#EXTINF:-1 group-title="卫视频道",安徽卫视
+https://www.yangshipin.cn/tv/home?pid=600002532
+#EXTINF:-1 group-title="卫视频道",河北卫视
+https://www.yangshipin.cn/tv/home?pid=600002493
+#EXTINF:-1 group-title="卫视频道",山东卫视
+https://www.yangshipin.cn/tv/home?pid=600002513
+#EXTINF:-1 group-title="卫视频道",天津卫视
+https://www.yangshipin.cn/tv/home?pid=600152137
+#EXTINF:-1 group-title="卫视频道",吉林卫视
+https://www.yangshipin.cn/tv/home?pid=600190405
+#EXTINF:-1 group-title="卫视频道",陕西卫视
+https://www.yangshipin.cn/tv/home?pid=600190400
+#EXTINF:-1 group-title="卫视频道",甘肃卫视
+https://www.yangshipin.cn/tv/home?pid=600190408
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
+https://www.yangshipin.cn/tv/home?pid=600190737
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+https://www.yangshipin.cn/tv/home?pid=600190401
+#EXTINF:-1 group-title="卫视频道",云南卫视
+https://www.yangshipin.cn/tv/home?pid=600190402
+#EXTINF:-1 group-title="卫视频道",山西卫视
+https://www.yangshipin.cn/tv/home?pid=600190407
+#EXTINF:-1 group-title="卫视频道",青海卫视
+https://www.yangshipin.cn/tv/home?pid=600190406
+#EXTINF:-1 group-title="卫视频道",西藏卫视
+https://www.yangshipin.cn/tv/home?pid=600190403
+#EXTINF:-1 group-title="卫视频道",新疆卫视
+https://www.yangshipin.cn/tv/home?pid=600152138
+
+#EXTINF:-1 group-title="央视频道2",CCTV1 综合
+https://www.yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 group-title="央视频道2",CCTV2 财经
+https://www.yangshipin.cn/tv/home?pid=600001800
+#EXTINF:-1 group-title="央视频道2",CCTV3 综艺
+https://www.yangshipin.cn/tv/home?pid=600001801
+#EXTINF:-1 group-title="央视频道2",CCTV4 中文国际
+https://www.yangshipin.cn/tv/home?pid=600001814
+#EXTINF:-1 group-title="央视频道2",CCTV5 体育
+https://www.yangshipin.cn/tv/home?pid=600001818
+#EXTINF:-1 group-title="央视频道2",CCTV5+ 体育赛事
+https://www.yangshipin.cn/tv/home?pid=600001817
+#EXTINF:-1 group-title="央视频道2",CCTV6 电影
+https://www.yangshipin.cn/tv/home?pid=600108442
+#EXTINF:-1 group-title="央视频道2",CCTV7 国防军事
+https://www.yangshipin.cn/tv/home?pid=600004092
+#EXTINF:-1 group-title="央视频道2",CCTV8 电视剧
+https://www.yangshipin.cn/tv/home?pid=600001803
+#EXTINF:-1 group-title="央视频道2",CCTV9 纪录
+https://www.yangshipin.cn/tv/home?pid=600004078
+#EXTINF:-1 group-title="央视频道2",CCTV10 科教
+https://www.yangshipin.cn/tv/home?pid=600001805
+#EXTINF:-1 group-title="央视频道2",CCTV11 戏曲
+https://www.yangshipin.cn/tv/home?pid=600001806
+#EXTINF:-1 group-title="央视频道2",CCTV12 社会与法
+https://www.yangshipin.cn/tv/home?pid=600001807
+#EXTINF:-1 group-title="央视频道2",CCTV13 新闻
+https://www.yangshipin.cn/tv/home?pid=600001811
+#EXTINF:-1 group-title="央视频道2",CCTV14 少儿
+https://www.yangshipin.cn/tv/home?pid=600001809
+#EXTINF:-1 group-title="央视频道2",CCTV15 音乐
+https://www.yangshipin.cn/tv/home?pid=600001815
+#EXTINF:-1 group-title="央视频道2",CCTV16 奥林匹克
+https://www.yangshipin.cn/tv/home?pid=600098637
+#EXTINF:-1 group-title="央视频道2",CCTV17 农业农村
+https://www.yangshipin.cn/tv/home?pid=600001810
+#EXTINF:-1 group-title="央视频道2",CCTV4K
+https://www.yangshipin.cn/tv/home?pid=600002264
+#EXTINF:-1 group-title="央视频道2",CCTV8K
+https://www.yangshipin.cn/tv/home?pid=600156816
+#EXTINF:-1 group-title="央视频道2",CGTN
+https://www.yangshipin.cn/tv/home?pid=600014550
+#EXTINF:-1 group-title="央视频道2",CGTN外语纪录频道
+https://www.yangshipin.cn/tv/home?pid=600084781
+#EXTINF:-1 group-title="央视频道2",CCTV 风云剧场
+https://www.yangshipin.cn/tv/home?pid=600099658
+#EXTINF:-1 group-title="央视频道2",CCTV 第一剧场
+https://www.yangshipin.cn/tv/home?pid=600099655
+#EXTINF:-1 group-title="央视频道2",CCTV 怀旧剧场
+https://www.yangshipin.cn/tv/home?pid=600099620
+
+#EXTINF:-1 group-title="央视频道3",CCTV1 综合
+https://tv.cctv.com/live/cctv1
+#EXTINF:-1 group-title="央视频道3",CCTV2 财经
+https://tv.cctv.com/live/cctv2
+#EXTINF:-1 group-title="央视频道3",CCTV3 综艺
+https://tv.cctv.com/live/cctv3
+#EXTINF:-1 group-title="央视频道3",CCTV4 中文国际（中）
+https://tv.cctv.com/live/cctv4
+#EXTINF:-1 group-title="央视频道3",CCTV4 中文国际（欧）
+https://tv.cctv.com/live/cctveurope
+#EXTINF:-1 group-title="央视频道3",CCTV4 中文国际（美）
+https://tv.cctv.com/live/cctvamerica
+#EXTINF:-1 group-title="央视频道3",CCTV5 体育
+https://tv.cctv.com/live/cctv5
+#EXTINF:-1 group-title="央视频道3",CCTV5+ 体育赛事
+https://tv.cctv.com/live/cctv5plus
+#EXTINF:-1 group-title="央视频道3",CCTV6 电影
+https://tv.cctv.com/live/cctv6
+#EXTINF:-1 group-title="央视频道3",CCTV7 国防军事
+https://tv.cctv.com/live/cctv7
+#EXTINF:-1 group-title="央视频道3",CCTV8 电视剧
+https://tv.cctv.com/live/cctv8
+#EXTINF:-1 group-title="央视频道3",CCTV9 纪录
+https://tv.cctv.com/live/cctv9
+#EXTINF:-1 group-title="央视频道3",CCTV10 科教
+https://tv.cctv.com/live/cctv10
+#EXTINF:-1 group-title="央视频道3",CCTV11 戏曲
+https://tv.cctv.com/live/cctv11
+#EXTINF:-1 group-title="央视频道3",CCTV12 社会与法
+https://tv.cctv.com/live/cctv12
+#EXTINF:-1 group-title="央视频道3",CCTV13 新闻
+https://tv.cctv.com/live/cctv13
+#EXTINF:-1 group-title="央视频道3",CCTV14 少儿
+https://tv.cctv.com/live/cctv14
+#EXTINF:-1 group-title="央视频道3",CCTV15 音乐
+https://tv.cctv.com/live/cctv15
+#EXTINF:-1 group-title="央视频道3",CCTV16 奥林匹克
+https://tv.cctv.com/live/cctv16
+#EXTINF:-1 group-title="央视频道3",CCTV17 农业农村
+https://tv.cctv.com/live/cctv17
+#EXTINF:-1 group-title="央视频道3",CCTV4K
+https://www.yangshipin.cn/tv/home?pid=600002264
+#EXTINF:-1 group-title="央视频道3",CCTV8K
+https://www.yangshipin.cn/tv/home?pid=600156816
+#EXTINF:-1 group-title="央视频道3",CGTN
+https://www.yangshipin.cn/tv/home?pid=600014550
+#EXTINF:-1 group-title="央视频道3",CGTN外语纪录频道
+https://www.yangshipin.cn/tv/home?pid=600084781
+
+#EXTINF:-1 group-title="景区镜头直播",广东深圳福田红树林
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头直播",陕西西安钟楼
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头直播",陕西西安大雁塔
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头直播",江苏无锡大剧院
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头直播",山东济南趵突泉
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头直播",河北沧州运河公园
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头直播",黄山始信峰
+https://gctxyc.liveplay.myqcloud.com/gc/hssxf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头直播",广东韶关车八岭国家级自然保护区
+https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头直播",河北秦皇岛老龙头
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头直播",安徽黄山排云亭
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头直播",江苏南京玄武湖景区
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+
+#EXTINF:-1 group-title="景区镜头回放",千佛山
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",全国风景总览
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",黟县宏村南湖
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",黟县西递牌坊
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",黄山排云亭
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",黄山西海大峡谷
+https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",泰山迎客松
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",泰山玉皇顶
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",水长城镜头一
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",水长城镜头二
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",滨海新区2
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",远眺万佛顶
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",两江四案
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",悬空寺全景
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",火星基地
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",白头叶猴保护区
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",黟县宏村月沼
+https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",婺源江岭1
+https://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",泰山主峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",泰山大观峰
+https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",印象大红袍
+https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",武夷山大红袍茶园
+https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",峨眉云海日出
+https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",贡嘎雪山
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",天涯鸟瞰
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",天涯石
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",南天一柱
+https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",雪乡梦幻家园
+https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",嘉峪关长城
+https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",金山
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",西藏山南浪卡子县鲁日拉景观台
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",西藏林芝米林岷山彩门民宿
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",西藏日喀则珠穆朗玛峰
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",西藏林芝工布江达县岷山错高民宿
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",西藏林芝南迦巴瓦
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",新疆昌吉州天山天池海西平台
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",新疆昌吉州天山天池定海神针
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",新疆天山天池马牙山
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南普洱景东县无量山羊山瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南丽江玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南保山板桥镇青龙街
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南德宏勐焕大金塔
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南保山比顿咖啡产业文化园
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南昆明寻甸县城区
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南西双版纳千年古寨曼丢
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南普洱澜沧县景迈山
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南红河民族风情旅游月亮小镇
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南丽江古城大研花巷观景
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南大理南涧县无量村古树茶园
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南保山隆阳区拦河坝水库
+https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南大理云南驿茶马古道
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",云南大理无量樱花谷
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",浙江舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",浙江舟山嵊泗县中心渔港
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",浙江乌镇白莲塔
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",浙江乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",浙江乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",四川峨眉山云海日出
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",乐山大佛全景
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",北京密云古水北镇
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",北京门头沟清水镇黄安坨村
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",北京黄花城水长城
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",安徽黄山卧云峰
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",安徽黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",安徽黟县西递半山亭
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",安徽宣城溪桃大桥
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",安徽黟县芦村远眺
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",江苏宿迁骆马湖罗曼园
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",江苏徐州之夜
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",甘肃敦煌月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",沈阳辽宁浑河桥
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",陕西咸阳乾陵景区
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",陕西渭南潼关县东山景区
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",陕西渭南韩城市党家村景区
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",陕西渭南蒲城县中心广场
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",陕西西安长安三河水库
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",陕西西安阎良关山石川河风景区
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",湖南邵阳莨山八角寨
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",湖南邵阳崀山骆驼峰
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",黑龙江哈尔滨霁虹桥
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",黑龙江萝北县嘟噜河省级自然保护区
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",福建南平武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",福建漳州六鳌翡翠湾
+http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区镜头回放",内蒙古乌审旗萨拉乌苏考古遗迹公园
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",河北承德金山岭长城
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",贵州黔东南加榜梯田
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",贵州遵义赤水大瀑布
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",山西晋城釜山泫水湖
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",山西大同鼓楼
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",青海门源仙米国家森林公园
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",青海省祁连山国家公园
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",五彩池
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",广西桂林漓江景区
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",望乡台
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",重庆渝中李子坝
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",河南南阳方城德云山景区
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",河南焦作云台山红石峡
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",河南商丘永城市日月湖景区
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="景区镜头回放",河南鹤壁浚县古城景区北城门
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
